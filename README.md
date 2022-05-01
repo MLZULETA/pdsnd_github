@@ -13,5 +13,5 @@ knowledge of the use of bicycles in the US
 Chicago.csv new_york_city.csv washington.csv
 
 ### Credits
-Training in Udacity
+Training in Udacity "Introducción a Python"
 
