@@ -4,7 +4,7 @@
 01/05/2022
 
 ### Project Title
-Bicycle Project
+Bicycle Project 2 Udacity
 
 ### Description
 knowledge of the use of bicycles in the US
